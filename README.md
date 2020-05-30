@@ -7,4 +7,4 @@ from PIL import Image
 
 ## RUN 
 
-python3 image_extension.py
+python3 image_extension.py Folder1\ Folder2\
